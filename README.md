@@ -1,6 +1,6 @@
 # TAS-Script Utilities
 
-This program contains utilities that can be useful when managing TAS script files:
+This program contains utilities that can be useful when managing TAS script files.
 
 Remove line numbers: removes line numbers from the beginning of each line
 
